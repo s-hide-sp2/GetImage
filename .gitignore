@@ -1,0 +1,700 @@
+
+# /
+/*.user
+/*.suo
+/*.project
+/*.ncb
+/*.opt
+/*.cdtproject
+/*.sbr
+/*.suo
+/*.sdf
+/*.msi
+
+# /DevRun/
+/DevRun/*.project
+/DevRun/*.ncb
+/DevRun/*.opt
+/DevRun/*.cdtproject
+/DevRun/*.sbr
+
+# /DevRun/Japan/
+
+#/Debug/
+/Debug/*.DLL
+/Debug/*.dll
+/Debug/*.ilk
+/Debug/*.pdb
+/Debug/*.exe
+
+#/Debug
+/Debug/*.DLL
+/Debug/*.dll
+/Debug/*.ilk
+/Debug/*.pdb
+/Debug/*.exe
+
+#/Releas
+/Releas/*.DLL
+/Releas/*.dll
+/Releas/*.ilk
+/Releas/*.pdb
+/Releas/*.exe
+
+# /Project/
+/ipch
+/*.sdf
+/*.suo
+
+
+# /Project/ExternalLibrary/poco-1.4.6p3/Foundation/
+/Project/ExternalLibrary/poco-1.4.6p3/Foundation/Debug
+/Project/ExternalLibrary/poco-1.4.6p3/Foundation/Release
+/Project/ExternalLibrary/poco-1.4.6p3/Foundation/Foundation_sprint.vcxproj.user
+
+# /Project/ExternalLibrary/poco-1.4.6p3/Net/
+/Project/ExternalLibrary/poco-1.4.6p3/Net/Debug
+/Project/ExternalLibrary/poco-1.4.6p3/Net/Release
+/Project/ExternalLibrary/poco-1.4.6p3/Net/Net_sprint.vcxproj.user
+
+# /Project/ExternalLibrary/poco-1.4.6p3/Util/
+/Project/ExternalLibrary/poco-1.4.6p3/Util/Debug
+/Project/ExternalLibrary/poco-1.4.6p3/Util/Release
+/Project/ExternalLibrary/poco-1.4.6p3/Util/Util_sprint.vcxproj.user
+
+# /Project/ExternalLibrary/poco-1.4.6p3/XML/
+/Project/ExternalLibrary/poco-1.4.6p3/XML/Debug
+/Project/ExternalLibrary/poco-1.4.6p3/XML/Release
+/Project/ExternalLibrary/poco-1.4.6p3/XML/XML_sprint.vcxproj.user
+
+# /Project/ExternalLibrary/thrift-0.9.1/lib/cpp/
+/Project/ExternalLibrary/thrift-0.9.1/lib/cpp/Debug
+/Project/ExternalLibrary/thrift-0.9.1/lib/cpp/Release
+/Project/ExternalLibrary/thrift-0.9.1/lib/cpp/libthrift_sprint.vcxproj.user
+
+# /Project/GCM/JP_DATALAYER/
+/Project/GCM/JP_DATALAYER/Debug
+/Project/GCM/JP_DATALAYER/Release
+/Project/GCM/JP_DATALAYER/JP_DATALAYER.vcxproj.user
+
+# /Project/ExternalLibrary/poco-1.4.6p3/Zip/
+/Project/ExternalLibrary/poco-1.4.6p3/Zip/Debug
+/Project/ExternalLibrary/poco-1.4.6p3/Zip/Release
+/Project/ExternalLibrary/poco-1.4.6p3/Zip/Zip_sprint.vcxproj.user
+
+# /Project/GCM/JP_DATALAYER/include/
+
+# /Project/GCM/JP_SOCKLAYER/
+/Project/GCM/JP_SOCKLAYER/Debug
+/Project/GCM/JP_SOCKLAYER/Release
+/Project/GCM/JP_SOCKLAYER/JP_SOCKLAYER.vcxproj.user
+
+# /Project/GCM/JP_SOCKLAYER/include/
+
+# /Project/GCM/JP_SSLLAYER/
+/Project/GCM/JP_SSLLAYER/Debug
+/Project/GCM/JP_SSLLAYER/Release
+/Project/GCM/JP_SSLLAYER/JP_SSLLAYER.vcxproj.user
+
+# /Project/GCM/JP_SSLLAYER/openssl/
+
+# /Project/ImportExport
+/Project/ImportExport/Debug
+/Project/ImportExport/Release
+/Project/ImportExport/ImportExport.vcxproj.user
+
+# /Project/Library/COMMLIB/
+/Project/Library/COMMLIB/Debug
+/Project/Library/COMMLIB/Release
+/Project/Library/COMMLIB/COMMLIB.vcxproj.user
+
+# /Project/Library/CTLDRV/
+/Project/Library/CTLDRV/Debug
+/Project/Library/CTLDRV/Release
+/Project/Library/CTLDRV/CtlDrv.vcxproj.user
+
+# /Project/Library/DCHART/
+/Project/Library/DCHART/Debug
+/Project/Library/DCHART/Release
+/Project/Library/DCHART/DCHART.vcxproj.user
+
+# /Project/Library/DCHARTDouble/
+/Project/Library/DCHARTDouble/Debug
+/Project/Library/DCHARTDouble/Release
+/Project/Library/DCHARTDouble/DCHARTDouble.vcxproj.user
+
+# /Project/Library/ORDERLIB/
+/Project/Library/ORDERLIB/Debug
+/Project/Library/ORDERLIB/Release
+/Project/Library/ORDERLIB/ORDERLIB.vcxproj.user
+
+# /Project/Library/RTFLIB/
+/Project/Library/RTFLIB/Debug
+/Project/Library/RTFLIB/Release
+/Project/Library/RTFLIB/RTFLIB.vcxproj.user
+
+# /Project/Library/SDFUTIL/
+/Project/Library/SDFUTIL/Debug
+/Project/Library/SDFUTIL/Release
+/Project/Library/SDFUTIL/SDFUTIL.vcxproj.user
+
+# /Project/Library/SPRLIB/
+/Project/Library/SPRLIB/Debug
+/Project/Library/SPRLIB/Release
+/Project/Library/SPRLIB/SPRLIB.vcxproj.user
+
+# /Project/Library/SSOLIB/
+/Project/Library/SSOLIB/SSOLIB.vcxproj.user
+/Project/Library/SSOLIB/Debug
+/Project/Library/SSOLIB/Release
+
+# /Project/Library/SharedDataLib/
+/Project/Library/SharedDataLib/*.vcxproj.user
+/Project/Library/SharedDataLib/Debug
+/Project/Library/SharedDataLib/Release
+
+# /Project/Library/SprintTR/
+/Project/Library/SprintTR/Debug
+/Project/Library/SprintTR/Release
+/Project/Library/SprintTR/SPRINTTR.vcxproj.user
+
+# /Project/Library/UserSetting/
+/Project/Library/UserSetting/UserSetting.vcxproj.user
+/Project/Library/UserSetting/Debug
+/Project/Library/UserSetting/Release
+
+# /Project/Library/UserSetting/res/
+
+# /Project/MFM/Agreement/
+/Project/MFM/Agreement/Agreement.vcxproj.user
+/Project/MFM/Agreement/Debug
+/Project/MFM/Agreement/Release
+
+# /Project/MFM/Caption/
+/Project/MFM/Caption/Debug
+/Project/MFM/Caption/Release
+/Project/MFM/Caption/Caption.vcxproj.user
+
+# /Project/MFM/Library/zlib/
+/Project/MFM/Library/zlib/Debug
+/Project/MFM/Library/zlib/Release
+/Project/MFM/Library/zlib/ZLib.vcxproj.user
+
+# /Project/MFM/Main/
+/Project/MFM/Main/Debug
+/Project/MFM/Main/Release
+/Project/MFM/Main/RAF.vcxproj.user
+
+# /Project/MFM/MsgBar/
+/Project/MFM/MsgBar/Debug
+/Project/MFM/MsgBar/Release
+/Project/MFM/MsgBar/MsgBar.vcxproj.user
+
+# /Project/MFM/Restart/
+/Project/MFM/Restart/Debug
+/Project/MFM/Restart/Release
+/Project/MFM/Restart/Restart.vcxproj.user
+
+# /Project/MFM/SysMan/
+/Project/MFM/SysMan/Debug
+/Project/MFM/SysMan/Release
+/Project/MFM/SysMan/SysMan.vcxproj.user
+
+# /Project/NetSetting/
+/Project/NetSetting/Debug
+/Project/NetSetting/Release
+/Project/NetSetting/NetSetting.vcxproj.user
+
+# /Project/REFCACHE/
+/Project/REFCACHE/Debug
+/Project/REFCACHE/Release
+/Project/REFCACHE/REFCACHE.vcxproj.user
+
+# /Project/Resource/SDF/
+/Project/Resource/SDF/Release
+/Project/Resource/SDF/Debug
+
+# /Project/SEC_BOARDER/SB_MESSAGE/
+/Project/SEC_BOARDER/SB_MESSAGE/Debug
+/Project/SEC_BOARDER/SB_MESSAGE/Release
+/Project/SEC_BOARDER/SB_MESSAGE/SB_MESSAGE.vcxproj.user
+
+# /Project/SEC_BOARDER/SB_SOCKLAYER/
+/Project/SEC_BOARDER/SB_SOCKLAYER/Debug
+/Project/SEC_BOARDER/SB_SOCKLAYER/Release
+/Project/SEC_BOARDER/SB_SOCKLAYER/SB_SOCKLAYER.vcxproj.user
+
+# /Project/SSO/Furikae/
+/Project/SSO/Furikae/Debug
+/Project/SSO/Furikae/Release
+/Project/SSO/Furikae/Furikae.vcxproj.user
+
+# /Project/SSO/Seisanhyou/
+/Project/SSO/Seisanhyou/SeisanHyou.vcxproj.user
+/Project/SSO/Seisanhyou/Debug
+/Project/SSO/Seisanhyou/Release
+
+# /Project/SSO/TradeWarning/
+/Project/SSO/TradeWarning/TradeWarning.vcxproj.user
+/Project/SSO/TradeWarning/Debug
+/Project/SSO/TradeWarning/Release
+
+# /Project/SSOClient/
+/Project/SSOClient/Debug
+/Project/SSOClient/Release
+/Project/SSOClient/SSOClient.vcxproj.user
+
+# /Project/Sec/
+/Project/Sec/Debug
+/Project/Sec/Release
+/Project/Sec/Sec.vcxproj.user
+
+# /Project/TRS/Chart/STJ_MAN/
+/Project/TRS/Chart/STJ_MAN/Debug
+/Project/TRS/Chart/STJ_MAN/Release
+/Project/TRS/Chart/STJ_MAN/STJ_MAN.vcxproj.user
+
+# /Project/TRS/Common/
+
+# /Project/TRS/Common/Include/
+
+# /Project/TRS/Common/Source/
+
+# /Project/TRS/Future/TR3111T/
+/Project/TRS/Future/TR3111T/Debug
+/Project/TRS/Future/TR3111T/Release
+/Project/TRS/Future/TR3111T/TR3111T.vcxproj.user
+
+# /Project/TRS/Future/TR3125/
+/Project/TRS/Future/TR3125/Debug
+/Project/TRS/Future/TR3125/Release
+/Project/TRS/Future/TR3125/TR3125.vcxproj.user
+
+# /Project/TRS/Future/TR3131/
+/Project/TRS/Future/TR3131/Debug
+/Project/TRS/Future/TR3131/Release
+/Project/TRS/Future/TR3131/TR3131.vcxproj.user
+
+# /Project/TRS/Future/TR3132/
+/Project/TRS/Future/TR3132/Debug
+/Project/TRS/Future/TR3132/Release
+/Project/TRS/Future/TR3132/TR3132.vcxproj.user
+
+# /Project/TRS/Future/TR3133/
+/Project/TRS/Future/TR3133/Debug
+/Project/TRS/Future/TR3133/Release
+/Project/TRS/Future/TR3133/TR3133.vcxproj.user
+
+# /Project/TRS/Future/TR3134/
+/Project/TRS/Future/TR3134/Debug
+/Project/TRS/Future/TR3134/Release
+/Project/TRS/Future/TR3134/TR3134.vcxproj.user
+
+# /Project/TRS/Future/TR3135/
+/Project/TRS/Future/TR3135/Debug
+/Project/TRS/Future/TR3135/Release
+/Project/TRS/Future/TR3135/TR3135.vcxproj.user
+
+# /Project/TRS/News/TR8100/
+/Project/TRS/News/TR8100/Debug
+/Project/TRS/News/TR8100/Release
+/Project/TRS/News/TR8100/TR8100.vcxproj.user
+
+# /Project/TRS/News/TR9640/
+/Project/TRS/News/TR9640/Debug
+/Project/TRS/News/TR9640/Release
+/Project/TRS/News/TR9640/TR9640.vcxproj.user
+
+# /Project/TRS/Option/TR3411T/
+/Project/TRS/Option/TR3411T/*.user
+/Project/TRS/Option/TR3411T/Debug
+/Project/TRS/Option/TR3411T/Release
+
+# /Project/TRS/Option/TR3417T/
+/Project/TRS/Option/TR3417T/Debug
+/Project/TRS/Option/TR3417T/Release
+/Project/TRS/Option/TR3417T/TR3417T.vcxproj.user
+
+# /Project/TRS/Option/TR3431/
+/Project/TRS/Option/TR3431/*.user
+/Project/TRS/Option/TR3431/Debug
+/Project/TRS/Option/TR3431/Release
+
+# /Project/TRS/Option/TR3432/
+/Project/TRS/Option/TR3432/*.user
+/Project/TRS/Option/TR3432/Debug
+/Project/TRS/Option/TR3432/Release
+
+# /Project/TRS/Option/TR3433/
+/Project/TRS/Option/TR3433/*.user
+/Project/TRS/Option/TR3433/Debug
+/Project/TRS/Option/TR3433/Release
+
+# /Project/TRS/Option/TR3434/
+/Project/TRS/Option/TR3434/Debug
+/Project/TRS/Option/TR3434/Release
+/Project/TRS/Option/TR3434/TR3434.vcxproj.user
+
+# /Project/TRS/Option/TR3452/
+/Project/TRS/Option/TR3452/Debug
+/Project/TRS/Option/TR3452/Release
+/Project/TRS/Option/TR3452/TR3452.vcxproj.user
+
+# /Project/TRS/Option/TR3453/
+/Project/TRS/Option/TR3453/TR3453.vcxproj.user
+/Project/TRS/Option/TR3453/Debug
+/Project/TRS/Option/TR3453/Release
+
+# /Project/TRS/Option/TR3454/
+/Project/TRS/Option/TR3454/TR3454.vcxproj.user
+/Project/TRS/Option/TR3454/Debug
+/Project/TRS/Option/TR3454/Release
+
+# /Project/TRS/Order/TR6202/
+/Project/TRS/Order/TR6202/Debug
+/Project/TRS/Order/TR6202/Release
+/Project/TRS/Order/TR6202/TR6202.vcxproj.user
+
+# /Project/TRS/Order/TR6205/
+/Project/TRS/Order/TR6205/Debug
+/Project/TRS/Order/TR6205/Release
+/Project/TRS/Order/TR6205/TR6205.vcxproj.user
+
+# /Project/TRS/Order/TR6207/
+/Project/TRS/Order/TR6207/Debug
+/Project/TRS/Order/TR6207/Release
+/Project/TRS/Order/TR6207/TR6207.vcxproj.user
+
+# /Project/TRS/Order/TR6208/
+/Project/TRS/Order/TR6208/Debug
+/Project/TRS/Order/TR6208/Release
+/Project/TRS/Order/TR6208/TR6208.vcxproj.user
+
+# /Project/TRS/Order/TR6211T/
+/Project/TRS/Order/TR6211T/Debug
+/Project/TRS/Order/TR6211T/Release
+/Project/TRS/Order/TR6211T/TR6211T.vcxproj.user
+
+# /Project/TRS/Order/TR6213/
+/Project/TRS/Order/TR6213/Debug
+/Project/TRS/Order/TR6213/Release
+/Project/TRS/Order/TR6213/TR6213.vcxproj.user
+
+# /Project/TRS/Order/TR6223/
+/Project/TRS/Order/TR6223/Debug
+/Project/TRS/Order/TR6223/Release
+/Project/TRS/Order/TR6223/TR6223.vcxproj.user
+
+# /Project/TRS/Order/TR6225/
+/Project/TRS/Order/TR6225/Debug
+/Project/TRS/Order/TR6225/Release
+/Project/TRS/Order/TR6225/TR6225.vcxproj.user
+
+# /Project/TRS/Order/TR6227/
+/Project/TRS/Order/TR6227/*.vcxproj.user
+/Project/TRS/Order/TR6227/Debug
+/Project/TRS/Order/TR6227/Release
+
+# /Project/TRS/Order/TR6302/
+/Project/TRS/Order/TR6302/Debug
+/Project/TRS/Order/TR6302/Release
+/Project/TRS/Order/TR6302/TR6302.vcxproj.user
+
+# /Project/TRS/Order/TR6302/res/
+
+# /Project/TRS/Order/TR6305/
+/Project/TRS/Order/TR6305/TR6305.vcxproj.user
+/Project/TRS/Order/TR6305/Debug
+/Project/TRS/Order/TR6305/Release
+
+# /Project/TRS/Order/TR6313/
+/Project/TRS/Order/TR6313/Debug
+/Project/TRS/Order/TR6313/Release
+/Project/TRS/Order/TR6313/TR6313.vcxproj.user
+
+# /Project/TRS/Order/TR6314/
+/Project/TRS/Order/TR6314/Debug
+/Project/TRS/Order/TR6314/Release
+/Project/TRS/Order/TR6314/TR6314.vcxproj.user
+
+# /Project/TRS/Order/TR6315/
+/Project/TRS/Order/TR6315/Debug
+/Project/TRS/Order/TR6315/Release
+/Project/TRS/Order/TR6315/TR6315.vcxproj.user
+
+# /Project/TRS/Order/TR6721T/
+/Project/TRS/Order/TR6721T/Debug
+/Project/TRS/Order/TR6721T/Release
+/Project/TRS/Order/TR6721T/TR6721T.vcxproj.user
+
+# /Project/TRS/Order/TR6722/
+/Project/TRS/Order/TR6722/Debug
+/Project/TRS/Order/TR6722/Release
+/Project/TRS/Order/TR6722/TR6722.vcxproj.user
+
+# /Project/TRS/Order/TR6723/
+/Project/TRS/Order/TR6723/TR6723.vcxproj.user
+/Project/TRS/Order/TR6723/Debug
+/Project/TRS/Order/TR6723/Release
+
+# /Project/TRS/Order/TR6727/
+/Project/TRS/Order/TR6727/Debug
+/Project/TRS/Order/TR6727/Release
+/Project/TRS/Order/TR6727/TR6727.vcxproj.user
+
+# /Project/TRS/Order/TR6728/
+/Project/TRS/Order/TR6728/Release
+/Project/TRS/Order/TR6728/Debug
+/Project/TRS/Order/TR6728/TR6728.vcxproj.user
+
+# /Project/TRS/Order/TR6731T/
+/Project/TRS/Order/TR6731T/Debug
+/Project/TRS/Order/TR6731T/Release
+/Project/TRS/Order/TR6731T/TR6731T.vcxproj.user
+
+# /Project/TRS/Order/TR6738T/
+/Project/TRS/Order/TR6738T/Debug
+/Project/TRS/Order/TR6738T/Release
+/Project/TRS/Order/TR6738T/TR6738T.vcxproj.user
+
+# /Project/TRS/Order/TR6832/
+/Project/TRS/Order/TR6832/Debug
+/Project/TRS/Order/TR6832/Release
+/Project/TRS/Order/TR6832/TR6832.vcxproj.user
+
+# /Project/TRS/State/TR1010/
+/Project/TRS/State/TR1010/Debug
+/Project/TRS/State/TR1010/Release
+/Project/TRS/State/TR1010/TR1010.vcxproj.user
+
+# /Project/TRS/State/TR1130/
+/Project/TRS/State/TR1130/Debug
+/Project/TRS/State/TR1130/Release
+/Project/TRS/State/TR1130/TR1130.vcxproj.user
+
+# /Project/TRS/State/TR7111/
+/Project/TRS/State/TR7111/Debug
+/Project/TRS/State/TR7111/Release
+/Project/TRS/State/TR7111/TR7111T.vcxproj.user
+
+# /Project/TRS/State/TR7115/
+/Project/TRS/State/TR7115/Debug
+/Project/TRS/State/TR7115/Release
+/Project/TRS/State/TR7115/TR7115.vcxproj.user
+
+# /Project/TRS/State/TR7116/
+/Project/TRS/State/TR7116/Debug
+/Project/TRS/State/TR7116/Release
+/Project/TRS/State/TR7116/TR7116.vcxproj.user
+
+# /Project/TRS/State/TR7119/
+/Project/TRS/State/TR7119/TR7119.vcxproj.user
+/Project/TRS/State/TR7119/Debug
+/Project/TRS/State/TR7119/Release
+
+# /Project/TRS/Stock/TR2001/
+/Project/TRS/Stock/TR2001/Debug
+/Project/TRS/Stock/TR2001/Release
+/Project/TRS/Stock/TR2001/TR2001.vcxproj.user
+
+# /Project/TRS/Stock/TR2011/
+/Project/TRS/Stock/TR2011/Debug
+/Project/TRS/Stock/TR2011/Release
+/Project/TRS/Stock/TR2011/TR2011.vcxproj.user
+
+# /Project/TRS/Stock/TR2016/
+/Project/TRS/Stock/TR2016/Debug
+/Project/TRS/Stock/TR2016/Release
+/Project/TRS/Stock/TR2016/TR2016.vcxproj.user
+
+# /Project/TRS/Stock/TR2018/
+/Project/TRS/Stock/TR2018/Debug
+/Project/TRS/Stock/TR2018/Release
+/Project/TRS/Stock/TR2018/TR2018.vcxproj.user
+
+# /Project/TRS/Stock/TR2033/
+/Project/TRS/Stock/TR2033/Debug
+/Project/TRS/Stock/TR2033/Release
+/Project/TRS/Stock/TR2033/TR2033.vcxproj.user
+
+# /Project/TRS/Stock/TR2034/
+/Project/TRS/Stock/TR2034/Debug
+/Project/TRS/Stock/TR2034/Release
+/Project/TRS/Stock/TR2034/TR2034.vcxproj.user
+
+# /Project/TRS/Stock/TR2102T/
+/Project/TRS/Stock/TR2102T/Debug
+/Project/TRS/Stock/TR2102T/Release
+/Project/TRS/Stock/TR2102T/TR2102T.vcxproj.user
+
+# /Project/TRS/Stock/TR2201T/
+/Project/TRS/Stock/TR2201T/Debug
+/Project/TRS/Stock/TR2201T/Release
+/Project/TRS/Stock/TR2201T/TR2201T.vcxproj.user
+
+# /Project/TRS/Stock/TR2407/
+/Project/TRS/Stock/TR2407/Debug
+/Project/TRS/Stock/TR2407/Release
+/Project/TRS/Stock/TR2407/TR2407.vcxproj.user
+
+# /Systemtrading/
+/Systemtrading/*.project
+/Systemtrading/*.ncb
+/Systemtrading/*.opt
+/Systemtrading/*.cdtproject
+/Systemtrading/*.sbr
+
+# /Systemtrading/SniperTradePro/
+/Systemtrading/SniperTradePro/*.project
+/Systemtrading/SniperTradePro/*.ncb
+/Systemtrading/SniperTradePro/*.opt
+/Systemtrading/SniperTradePro/*.cdtproject
+/Systemtrading/SniperTradePro/*.sbr
+/Systemtrading/SniperTradePro/*.suo
+/Systemtrading/SniperTradePro/*.sdf
+
+# /Systemtrading/SniperTradePro/Common/
+/Systemtrading/SniperTradePro/Common/LibD
+/Systemtrading/SniperTradePro/Common/libR
+
+# /Systemtrading/SniperTradePro/Common/LibD/
+/Systemtrading/SniperTradePro/Common/LibD/SP_RES.bsc
+/Systemtrading/SniperTradePro/Common/LibD/SP_RES.exp
+/Systemtrading/SniperTradePro/Common/LibD/SP_RES.lib
+/Systemtrading/SniperTradePro/Common/LibD/SP_RES.pdb
+/Systemtrading/SniperTradePro/Common/LibD/SP_VMC.bsc
+/Systemtrading/SniperTradePro/Common/LibD/SP_VMC.exp
+/Systemtrading/SniperTradePro/Common/LibD/SP_VMC.lib
+/Systemtrading/SniperTradePro/Common/LibD/SP_VMC.pdb
+
+# /Systemtrading/SniperTradePro/Common/LibR/
+/Systemtrading/SniperTradePro/Common/LibR/SP_RES.exp
+/Systemtrading/SniperTradePro/Common/LibR/SP_RES.lib
+/Systemtrading/SniperTradePro/Common/LibR/SP_VMC.exp
+/Systemtrading/SniperTradePro/Common/LibR/SP_VMC.lib
+
+# /Systemtrading/SniperTradePro/SP_CPL/
+/Systemtrading/SniperTradePro/SP_CPL/*.APS
+/Systemtrading/SniperTradePro/SP_CPL/*.BSC
+/Systemtrading/SniperTradePro/SP_CPL/*.CLW
+/Systemtrading/SniperTradePro/SP_CPL/*.PLG
+/Systemtrading/SniperTradePro/SP_CPL/*.SBR
+/Systemtrading/SniperTradePro/SP_CPL/*.aps
+/Systemtrading/SniperTradePro/SP_CPL/*.bsc
+/Systemtrading/SniperTradePro/SP_CPL/*.clw
+/Systemtrading/SniperTradePro/SP_CPL/*.plg
+/Systemtrading/SniperTradePro/SP_CPL/*.sbr
+/Systemtrading/SniperTradePro/SP_CPL/*.user
+/Systemtrading/SniperTradePro/SP_CPL/Debug
+/Systemtrading/SniperTradePro/SP_CPL/Release
+
+# /Systemtrading/SniperTradePro/SP_IDE/
+/Systemtrading/SniperTradePro/SP_IDE/Debug
+/Systemtrading/SniperTradePro/SP_IDE/Release
+/Systemtrading/SniperTradePro/SP_IDE/*.sbr
+/Systemtrading/SniperTradePro/SP_IDE/*.SBR
+/Systemtrading/SniperTradePro/SP_IDE/*.aps
+/Systemtrading/SniperTradePro/SP_IDE/*.APS
+/Systemtrading/SniperTradePro/SP_IDE/*.plg
+/Systemtrading/SniperTradePro/SP_IDE/*.PLG
+/Systemtrading/SniperTradePro/SP_IDE/*.clw
+/Systemtrading/SniperTradePro/SP_IDE/*.CLW
+/Systemtrading/SniperTradePro/SP_IDE/*.bsc
+/Systemtrading/SniperTradePro/SP_IDE/*.BSC
+/Systemtrading/SniperTradePro/SP_IDE/*.user
+
+# /Systemtrading/SniperTradePro/SP_MCT/
+/Systemtrading/SniperTradePro/SP_MCT/*.APS
+/Systemtrading/SniperTradePro/SP_MCT/*.BSC
+/Systemtrading/SniperTradePro/SP_MCT/*.CLW
+/Systemtrading/SniperTradePro/SP_MCT/*.PLG
+/Systemtrading/SniperTradePro/SP_MCT/*.SBR
+/Systemtrading/SniperTradePro/SP_MCT/*.aps
+/Systemtrading/SniperTradePro/SP_MCT/*.bsc
+/Systemtrading/SniperTradePro/SP_MCT/*.clw
+/Systemtrading/SniperTradePro/SP_MCT/*.plg
+/Systemtrading/SniperTradePro/SP_MCT/*.sbr
+/Systemtrading/SniperTradePro/SP_MCT/*.user
+/Systemtrading/SniperTradePro/SP_MCT/Debug
+/Systemtrading/SniperTradePro/SP_MCT/Release
+
+# /Systemtrading/SniperTradePro/SP_MDI/
+/Systemtrading/SniperTradePro/SP_MDI/Debug
+/Systemtrading/SniperTradePro/SP_MDI/Release
+/Systemtrading/SniperTradePro/SP_MDI/*.sbr
+/Systemtrading/SniperTradePro/SP_MDI/*.SBR
+/Systemtrading/SniperTradePro/SP_MDI/*.aps
+/Systemtrading/SniperTradePro/SP_MDI/*.APS
+/Systemtrading/SniperTradePro/SP_MDI/*.plg
+/Systemtrading/SniperTradePro/SP_MDI/*.PLG
+/Systemtrading/SniperTradePro/SP_MDI/*.clw
+/Systemtrading/SniperTradePro/SP_MDI/*.CLW
+/Systemtrading/SniperTradePro/SP_MDI/*.bsc
+/Systemtrading/SniperTradePro/SP_MDI/*.BSC
+/Systemtrading/SniperTradePro/SP_MDI/*.user
+
+# /Systemtrading/SniperTradePro/SP_RES/
+/Systemtrading/SniperTradePro/SP_RES/*.APS
+/Systemtrading/SniperTradePro/SP_RES/*.BSC
+/Systemtrading/SniperTradePro/SP_RES/*.CLW
+/Systemtrading/SniperTradePro/SP_RES/*.PLG
+/Systemtrading/SniperTradePro/SP_RES/*.SBR
+/Systemtrading/SniperTradePro/SP_RES/*.aps
+/Systemtrading/SniperTradePro/SP_RES/*.bsc
+/Systemtrading/SniperTradePro/SP_RES/*.clw
+/Systemtrading/SniperTradePro/SP_RES/*.plg
+/Systemtrading/SniperTradePro/SP_RES/*.sbr
+/Systemtrading/SniperTradePro/SP_RES/*.user
+/Systemtrading/SniperTradePro/SP_RES/Debug
+/Systemtrading/SniperTradePro/SP_RES/Release
+
+# /Systemtrading/SniperTradePro/SP_SF0/
+/Systemtrading/SniperTradePro/SP_SF0/*.APS
+/Systemtrading/SniperTradePro/SP_SF0/*.BSC
+/Systemtrading/SniperTradePro/SP_SF0/*.CLW
+/Systemtrading/SniperTradePro/SP_SF0/*.PLG
+/Systemtrading/SniperTradePro/SP_SF0/*.SBR
+/Systemtrading/SniperTradePro/SP_SF0/*.aps
+/Systemtrading/SniperTradePro/SP_SF0/*.bsc
+/Systemtrading/SniperTradePro/SP_SF0/*.clw
+/Systemtrading/SniperTradePro/SP_SF0/*.plg
+/Systemtrading/SniperTradePro/SP_SF0/*.sbr
+/Systemtrading/SniperTradePro/SP_SF0/*.user
+/Systemtrading/SniperTradePro/SP_SF0/Debug
+/Systemtrading/SniperTradePro/SP_SF0/Release
+
+# /Systemtrading/SniperTradePro/SP_TPL/
+/Systemtrading/SniperTradePro/SP_TPL/*.APS
+/Systemtrading/SniperTradePro/SP_TPL/*.BSC
+/Systemtrading/SniperTradePro/SP_TPL/*.CLW
+/Systemtrading/SniperTradePro/SP_TPL/*.PLG
+/Systemtrading/SniperTradePro/SP_TPL/*.SBR
+/Systemtrading/SniperTradePro/SP_TPL/*.aps
+/Systemtrading/SniperTradePro/SP_TPL/*.bsc
+/Systemtrading/SniperTradePro/SP_TPL/*.clw
+/Systemtrading/SniperTradePro/SP_TPL/*.plg
+/Systemtrading/SniperTradePro/SP_TPL/*.sbr
+/Systemtrading/SniperTradePro/SP_TPL/*.user
+/Systemtrading/SniperTradePro/SP_TPL/Debug
+/Systemtrading/SniperTradePro/SP_TPL/Release
+
+# /Systemtrading/SniperTradePro/SP_VMC/
+/Systemtrading/SniperTradePro/SP_VMC/*.APS
+/Systemtrading/SniperTradePro/SP_VMC/*.BSC
+/Systemtrading/SniperTradePro/SP_VMC/*.CLW
+/Systemtrading/SniperTradePro/SP_VMC/*.PLG
+/Systemtrading/SniperTradePro/SP_VMC/*.SBR
+/Systemtrading/SniperTradePro/SP_VMC/*.aps
+/Systemtrading/SniperTradePro/SP_VMC/*.bsc
+/Systemtrading/SniperTradePro/SP_VMC/*.clw
+/Systemtrading/SniperTradePro/SP_VMC/*.plg
+/Systemtrading/SniperTradePro/SP_VMC/*.sbr
+/Systemtrading/SniperTradePro/SP_VMC/*.user
+/Systemtrading/SniperTradePro/SP_VMC/Debug
+/Systemtrading/SniperTradePro/SP_VMC/Release
+
+# /scripts/
+/scripts/dist
+
+# /scripts2/
+/scripts2/dist
