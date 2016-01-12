@@ -1,0 +1,3 @@
+findstr /R /S /I "zlib" *.prj
+
+findstr /R /S /I "Order.Dat" *.h

@@ -1,0 +1,32 @@
+# SVNからの初期化
+$ git svn clone svn://192.168.2.211/home/svn/dev/SPRINT_CLIENT -r 206496 --stdlayout --prefix svn/
+$ git svn rebase
+
+
+
+// ローカルリポジトリの作成（コミット先が決まる）
+git svn clone
+
+// svnにコミット
+git svn dcommit --interactive
+
+// 全ブランチのフェッチ
+git svn fetch --all
+
+// svnにコミットする前にpull（あまり使わない方が良い）
+git svn rebase
+
+
+(14:01) ベルドーヤ ローレン: 下記手順でFOR_XXXの取得ができるかな
+git remote add origin ssh://neo@192.168.110.230/neo/users/l-verdoia/repos/SPRINT_CLIENT.git
+git fetch --all
+git checkout --track origin/FOR_XXXX
+git rebase master
+git remote remove origin
+
+// 新規ブランチにリベース
+git checkout svn/trunk	 // trunkをチェックアウト
+git svn branch SAMPLE	 // svn に新規ブランチ[SAMPLE]を作成
+git fetch --all		 // git のリポジトリにsvnの全ブランチを取り込む
+git checkout LocalSample // git のローカルブランチをチェックアウト
+git rebase svn/SAMPLE	 // git のローカルブランチを[SAMPLE]ブランチにリベース

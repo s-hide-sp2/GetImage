@@ -1,0 +1,23 @@
+// 追加・修正・削除ファイル一覧取得
+git diff-index -r --no-renames --name-status 7c7ffd233919d66ef6bcafcbc7fd0236651cc77d > C:/data/temp/git_diff.txt
+
+
+// ブランチ名変更
+git branch -m <ブランチ名>
+
+git push origin <ブランチ名>
+
+// ブランチ削除
+git branch -d <ブランチ名>
+
+git push origin :<ブランチ名>
+
+// タグ作成
+git tag <tagname>
+
+git push origin <tagname>
+
+// タグ削除
+git tag -d <tagname>
+
+git push origin :<tagname>
